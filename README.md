@@ -23,6 +23,5 @@ index.html (login pages),
 ![image](https://user-images.githubusercontent.com/59326036/134160867-28d222c7-d2a7-4db5-be26-7a94383f7340.png)
 
 
-dashboard.html (dashboard page), 
 
 
