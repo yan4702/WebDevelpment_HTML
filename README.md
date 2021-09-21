@@ -1,4 +1,4 @@
-# WebDevelpment_HTML
+# Personal Health Web Development
 Personal health has become a dominant concern of modern professionals. Thus, personal health
 management is a major theme in web application domains. The well-known brands are Fitbit,
 Apple iWatch, and Samsung Watch.
